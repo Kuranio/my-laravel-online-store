@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Source+Code+Pro&display=swap');
+
+.navbar-brand {
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 25px;
+}
+
+.bg-secondary {
+    background-color: #0B3948 !important;
+}
+  
+.copyright {
+    background-color: #ACB0BD;
+}
+  
+.bg-primary {
+    background-color: #416165 !important;
+}
+  
+nav{
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+}
+  
+.img-card{
+    height: 18vw;
+    object-fit: cover;
+}
